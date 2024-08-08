@@ -1,0 +1,11 @@
+﻿  Dod.cpp
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsDate.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsString.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsString.h(39,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsString.h(49,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsString.h(158,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsString.h(273,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsString.h(316,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsQueueLine.h(97,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AB\source\repos\DataStructureTrainnig\Dod\clsQueueLine.h(165,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Dod.vcxproj -> C:\Users\AB\source\repos\DataStructureTrainnig\x64\Debug\Dod.exe
